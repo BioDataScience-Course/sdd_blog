@@ -50,3 +50,7 @@ Pour ajouter disqus, vous devez suivre les instructions ci-dessous :
 - Terminez par construire votre site, un `Commit` et un `Push`
 
 ![](images/disqus7.gif) 
+
+
+
+**N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**

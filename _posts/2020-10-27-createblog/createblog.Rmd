@@ -77,3 +77,5 @@ Dans votre dépôt en ligne sur Github,
 Au bout de quelques minutes votre site sera en ligne.
 
 ![](images/blog-guy-6.png)
+
+**N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**

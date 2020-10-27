@@ -30,3 +30,6 @@ distill::create_post("mon article")
 ## Pour aller plus loin 
 
 Consultez le site [distill for Rmarkdown](https://rstudio.github.io/distill/). Ce site comprend de nombreuses d'idées pour améliorer vore site.
+
+
+**N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**

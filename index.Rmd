@@ -22,5 +22,7 @@ Savais-tu qu'un fichier fichier au format Rmarkdown ne servait pas uniquement à
 
 Le format Rmarkdown peut être compilé en une multitude de formats. Jette un coup d'œil à cette page si tu as besoin de t'en convaincre <https://rmarkdown.rstudio.com/formats.html>
 
+
 Nous allons explorer le package [distill](https://rstudio.github.io/distill/) pour réaliser ce blog.
 
+**Rends toi dans la section [Articles](http://biodatascience-course.sciviews.org/sdd_blog/articles.html) pour en apprendre d'avantages sur les blog scientifiques.**
