@@ -1,0 +1,32 @@
+---
+title: "Edition du blog"
+description: |
+  Ajout de nouveaux articles à mon blog
+author:
+  - name: GuyliannEngels
+    url: {}
+date: 10-26-2020
+output: distill::distill_article
+---
+
+**Cet article est en cours d'édition**
+
+L'édition de contenu dans un blog scientifique de type Distill est assez simple. Il suffit d'une instructions dans R pour rajouter un article à votre blog.
+
+## Procédure
+
+Dans Rstudio
+
+1. Ouvrer votre projet de blog
+
+Dans la console de RStudio,
+
+2. Entrer l'instruction suivante 
+
+```
+distill::create_post("mon article")
+```
+
+## Pour aller plus loin 
+
+Consultez le site [distill for Rmarkdown](https://rstudio.github.io/distill/). Ce site comprend de nombreuses d'idées pour améliorer vore site.

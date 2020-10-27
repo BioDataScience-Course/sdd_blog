@@ -1,0 +1,52 @@
+---
+title: "Interaction sur le blog"
+description: |
+  Ajout de disqus pour rendre le blog intéractifs
+author:
+  - name: GuyliannEngels
+    url: {}
+date: 10-27-2020
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Cet article est en cours d'édition**
+
+Disqus est un service web qui permet de gérer des discussions sur des blogs. 
+
+## Procédure
+
+Pour ajouter disqus, vous devez suivre les instructions ci-dessous :
+
+- Cliquez sur le lien suivant: <https://disqus.com> 
+
+- Cliquez sur `Get Started` et créez vous un comptez sur disqus 
+
+![](images/disqus2.png) 
+
+
+- Cliquez ensuite sur `I want to install Disqus on my site`
+
+- Ajoutez le nom de votre website
+
+![](images/disqus3.gif)
+
+- Dans les configuration de disqus, entrez l'adresse de votre blog
+
+![](images/disqus4.gif) 
+
+- Copiez le shortname de votre site qui se trouve dans la section `Edit Settings`.
+
+![](images/disqus5.gif) 
+
+
+- Dans le fichier _site.yml de votre projet ajoutez votre `shortname` comme présenté dans l'image suivante.
+
+![](images/disqus6.gif)
+
+- Terminez par construire votre site, un `Commit` et un `Push`
+
+![](images/disqus7.gif) 

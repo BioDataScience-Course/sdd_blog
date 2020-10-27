@@ -1,0 +1,14 @@
+name: "sdd_blog"
+title: "Création d'un blog scientifique"
+description: |
+  Création d'un blog scientifique
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "A propos"
+      href: about.html
+    - text: "Articles"
+      href: articles.html
+output: distill::distill_article
