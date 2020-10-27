@@ -19,4 +19,5 @@ collections:
       share: [twitter, linkedin, facebook]
       disqus:
        shortname: sdd-blog
+       hidden: false
 output: distill::distill_article
