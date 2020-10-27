@@ -11,4 +11,12 @@ navbar:
       href: about.html
     - text: "Articles"
       href: articles.html
+    - icon: fab fa-github
+      href: https://github.com/BioDataScience-Course/sdd_blog
+base_url: http://biodatascience-course.sciviews.org/sdd_blog/
+collections:
+    posts:
+      share: [twitter, linkedin, facebook]
+      disqus:
+       shortname: sdd-blog
 output: distill::distill_article

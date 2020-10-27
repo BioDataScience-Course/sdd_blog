@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Création d'un blog scientifique</title>
+    <link>http://biodatascience-course.sciviews.org/sdd_blog/</link>
+    <atom:link href="http://biodatascience-course.sciviews.org/sdd_blog/articles.xml" rel="self" type="application/rss+xml"/>
+    <description>Création d'un blog scientifique
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Interaction sur le blog</title>
+      <dc:creator>GuyliannEngels</dc:creator>
+      <link>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-disqusblog</link>
+      <description>Ajout de disqus pour rendre le blog intéractifs</description>
+      <guid>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-disqusblog</guid>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edition du blog</title>
+      <dc:creator>GuyliannEngels</dc:creator>
+      <link>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-editblog</link>
+      <description>Ajout de nouveaux articles à mon blog</description>
+      <guid>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-editblog</guid>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Création d'un blog scientifique</title>
+      <dc:creator>GuyliannEngels</dc:creator>
+      <link>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-createblog</link>
+      <description>Utilisation d'un template pour générer son blog scientifique</description>
+      <guid>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-createblog</guid>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

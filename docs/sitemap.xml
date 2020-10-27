@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/about.html</loc>
+    <lastmod>2020-10-27T10:53:43+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/articles.html</loc>
+    <lastmod>2020-10-27T10:59:45+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/</loc>
+    <lastmod>2020-10-27T10:50:42+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-disqusblog/</loc>
+    <lastmod>2020-10-27T11:26:24+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-editblog/</loc>
+    <lastmod>2020-10-27T11:27:56+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-createblog/</loc>
+    <lastmod>2020-10-27T11:27:47+01:00</lastmod>
+  </url>
+</urlset>
