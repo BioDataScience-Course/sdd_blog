@@ -51,7 +51,7 @@ Dans le fichier `_site.yml` de votre projet
 
 11. Editer la ligner 2 `title`, nommez votre blog
 12. Editer la ligne 13 `href`, remplacer l'url par l'url de votre blog sur github. (ex: https://github.com/Guyliann/guyliann_blog)
-13. Editer la ligne 14 `base_url`, remplacer l'url par `profil github + .github.io/ + nom de votre dépot + /` (ex: guyliann.github.io/guyliann_blog/, que l'on peut traduire par `profil github + .github.io/ + nom de votre dépot + /`)
+13. Editer la ligne 14 `base_url`, remplacer l'url par `http:// + profil github + .github.io/ + nom de votre dépot + /` (ex: <http://guyliann.github.io/guyliann_blog/>, que l'on peut traduire par `profil github + .github.io/ + nom de votre dépot + /`)
 
 Dans le fichier `index.Rmd`
 
