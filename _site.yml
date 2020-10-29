@@ -1,5 +1,5 @@
 name: "sdd_blog"
-title: "Création d'un blog scientifique"
+title: "R Markdown pour la rédaction scientifique"
 favicon: images/favicon.png
 base_url: http://biodatascience-course.sciviews.org/sdd_blog/
 repository_url: https://github.com/BioDataScience-Course/sdd_blog

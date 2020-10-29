@@ -1,5 +1,5 @@
 ---
-title: "R Markdown : l'outil spécialisé de rédaction"
+title: "R Markdown : l'outil de rédaction scientifique"
 description: |
   Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !
 site: distill::distill_website
