@@ -10,8 +10,6 @@ navbar:
   right:
     - text: "Home"
       href: "index.html"
-    - text: "A propos"
-      href: "about.html"
     - text: "Formats"
       menu:
         - text: "Base de R Markdown"

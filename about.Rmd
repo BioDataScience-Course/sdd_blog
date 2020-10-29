@@ -6,6 +6,9 @@ title: "A propos"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Ce projet de blog scientifique vient d'une collaboratoin entre le cours English For Science (Faculté des Sciences, UMONS) et le cours de Science des données biologiques I (Faculté des Sciences, UMONS).
+Ce projet de site web est le fruit de plusieurs années 
 
-Ce site propose une procédure afin de proposer un blog va comprendre des articles qui traitent d’analyse de la littérature de vulgarisation scientifique et de description de données.
+
+Ce site propose différentes procédure afin de proposer d'utiliser R Markdown pour réaliser des travaux de qualité professionnel. 
+
+un blog va comprendre des articles qui traitent d’analyse de la littérature de vulgarisation scientifique et de description de données.
