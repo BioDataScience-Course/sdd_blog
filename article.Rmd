@@ -1,5 +1,5 @@
 ---
-title: "Ensemble d'article sur l'utilisation de R Markdown"
+title: "Série d'articles sur l'utilisation de R Markdown"
 site: distill::distill_website
 listing: posts
 ---
