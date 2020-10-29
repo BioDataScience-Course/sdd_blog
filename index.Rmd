@@ -25,4 +25,5 @@ Le format R Markdown peut être compilé en une multitude de formats. Jette un c
 
 - Si tu souhaites faire un recherche plus ciblée sur un format de sortie, rends toi dans l'onglet formats 
 
-- Si tu ne cherche pas un format de sortie particulier, rends toi directement dans la [blog](http://biodatascience-course.sciviews.org/sdd_blog/articles.html)
+- Si tu ne cherche pas un format de sortie particulier, rends toi directement dans la [blog](http://biodatascience-course.sciviews.org/sdd_blog/article.html)
+
