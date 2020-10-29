@@ -1,0 +1,12 @@
+---
+title: "Le B.A.-BA de R Markdown"
+description: |
+  Cette série d'articles s'attarde sur les notions de bases de R Markdown !
+site: distill::distill_website
+collections:
+  posts:
+    categories: false
+listing:
+  posts:
+    - "2020-10-29-babayaml"
+---

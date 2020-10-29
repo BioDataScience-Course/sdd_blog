@@ -1,11 +1,14 @@
 ---
-title: "Interaction sur le blog"
+title: "Interaction sur un blog scientifique"
 description: |
-  Ajout de disqus pour rendre le blog intéractifs
+  Ajout de disqus pour rendre le blog scientifiqe intéractifs
 author:
   - name: GuyliannEngels
     url: {}
 date: 10-27-2020
+categories:
+  - Distill
+  - Blog Scientifique
 output: distill::distill_article
 ---
 
@@ -51,6 +54,10 @@ Pour ajouter disqus, vous devez suivre les instructions ci-dessous :
 
 ![](images/disqus7.gif) 
 
+***
 
+Tu souhaite en apprendre d'avantages, consulte les autres articles sur le sujet.
 
 **N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**
+
+***

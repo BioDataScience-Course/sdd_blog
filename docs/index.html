@@ -19,29 +19,30 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>Création d'un blog scientifique</title>
+  <title>Création d'un blog scientifique: R Markdown : l'outil spécialisé de rédaction</title>
   
-  <meta property="description" itemprop="description" content="Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!"/>
+  <meta property="description" itemprop="description" content="Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !"/>
   
+  <link rel="icon" type="image/png" href="images/favicon.png"/>
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Création d&#39;un blog scientifique"/>
+  <meta property="og:title" content="Création d&#39;un blog scientifique: R Markdown : l&#39;outil spécialisé de rédaction"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!"/>
+  <meta property="og:description" content="Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Création d&#39;un blog scientifique"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Création d&#39;un blog scientifique"/>
-  <meta property="twitter:description" content="Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!"/>
+  <meta property="twitter:title" content="Création d&#39;un blog scientifique: R Markdown : l&#39;outil spécialisé de rédaction"/>
+  <meta property="twitter:description" content="Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !"/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Création d'un blog scientifique"]},{"type":"character","attributes":{},"value":["Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["R Markdown : l'outil spécialisé de rédaction"]},{"type":"character","attributes":{},"value":["Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1272,7 +1273,7 @@
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Création d'un blog scientifique","description":"Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!","authors":[]}
+{"title":"R Markdown : l'outil spécialisé de rédaction","description":"Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1285,7 +1286,18 @@
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="about.html">A propos</a>
-<a href="articles.html">Articles</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Formats
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="rmarkdown.html">Base de R Markdown</a>
+<a href="blog.html">Blog scientifique</a>
+</div>
+</div>
+<a href="article.html">Blog</a>
 <a href="https://github.com/BioDataScience-Course/sdd_blog">
 <i class="fab fa-github"></i>
 </a>
@@ -1298,19 +1310,21 @@
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Création d’un blog scientifique</h1>
-<p><p>Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!</p></p>
+<h1>R Markdown : l’outil spécialisé de rédaction</h1>
+<p><p>Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !</p></p>
 </div>
 
 
 <div class="d-article">
-<p>Savais-tu qu’un fichier au format Rmarkdown ne servait pas uniquement à compiler un rapport au format html, pdf ou encore word.</p>
+<p>Si tu arrives sur ce site c’est que tu as déjà entendu parlé ou même utilisé des fichiers R Markdown. Il s’agit de fichiers qui vont te permettre d’imbriquer des zones de textes en Markdown et des zones de codes. Ce fichier peut ensuite être compilé en de nombreux formats.</p>
 <figure>
 <img src="images/rmarkdownoutputformats.png" alt="" /><figcaption><a href="https://rmarkdown.rstudio.com/authoring_quick_tour.html">R Markdown for RStudio</a></figcaption>
 </figure>
-<p>Le format Rmarkdown peut être compilé en une multitude de formats. Jette un coup d’œil à cette page si tu as besoin de t’en convaincre <a href="https://rmarkdown.rstudio.com/formats.html" class="uri">https://rmarkdown.rstudio.com/formats.html</a></p>
-<p>Nous allons explorer le package <a href="https://rstudio.github.io/distill/">distill</a> pour réaliser ce blog.</p>
-<p><strong>Rends-toi dans la section <a href="http://biodatascience-course.sciviews.org/sdd_blog/articles.html">Articles</a> pour en apprendre d’avantages sur les blog scientifiques.</strong></p>
+<p>Le format R Markdown peut être compilé en une multitude de formats. Jette un coup d’œil à cette page si tu as besoin de t’en convaincre <a href="https://rmarkdown.rstudio.com/formats.html" class="uri">https://rmarkdown.rstudio.com/formats.html</a></p>
+<ul>
+<li><p>Si tu souhaites faire un recherche plus ciblée sur un format de sortie, rends toi dans l’onglet formats</p></li>
+<li><p>Si tu ne cherche pas un format de sortie particulier, rends toi directement dans la <a href="http://biodatascience-course.sciviews.org/sdd_blog/articles.html">blog</a></p></li>
+</ul>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
@@ -1322,7 +1336,10 @@
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom"></div>
+<div class="appendix-bottom">
+<h3 id="updates-and-corrections">Corrections</h3>
+<p>If you see mistakes or want to suggest changes, please <a href="https://github.com/BioDataScience-Course/sdd_blog/issues/new">create an issue</a> on the source repository.</p>
+</div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <!--/radix_placeholder_navigation_after_body-->

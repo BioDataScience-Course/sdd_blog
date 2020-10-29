@@ -1,19 +1,27 @@
 name: "sdd_blog"
 title: "Création d'un blog scientifique"
+favicon: images/favicon.png
+base_url: http://biodatascience-course.sciviews.org/sdd_blog/
+repository_url: https://github.com/BioDataScience-Course/sdd_blog
 description: |
   Création d'un blog scientifique
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: "index.html"
     - text: "A propos"
-      href: about.html
-    - text: "Articles"
-      href: articles.html
+      href: "about.html"
+    - text: "Formats"
+      menu:
+        - text: "Base de R Markdown"
+          href: "rmarkdown.html"
+        - text: "Blog scientifique"
+          href: "blog.html"
+    - text: "Blog"
+      href: "article.html"
     - icon: fab fa-github
       href: https://github.com/BioDataScience-Course/sdd_blog
-base_url: http://biodatascience-course.sciviews.org/sdd_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

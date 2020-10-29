@@ -1,7 +1,7 @@
 ---
-title: "Création d'un blog scientifique"
+title: "R Markdown : l'outil spécialisé de rédaction"
 description: |
-  Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!
+  Bienvenue sur ce site web qui va te permettre de créer facilement des documents en R markdown et explorer ces nombreux formats de sortie !
 site: distill::distill_website
 ---
 
@@ -16,13 +16,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Savais-tu qu'un fichier au format Rmarkdown ne servait pas uniquement à compiler un rapport au format html, pdf ou encore word. 
+Si tu arrives sur ce site c'est que tu as déjà entendu parlé ou même utilisé des fichiers R Markdown. Il s'agit de fichiers qui vont te permettre d'imbriquer des zones de textes en Markdown et des zones de codes. Ce fichier peut ensuite être compilé en de nombreux formats.
+
 
 ![ [R Markdown for RStudio](https://rmarkdown.rstudio.com/authoring_quick_tour.html) ](images/rmarkdownoutputformats.png)
 
-Le format Rmarkdown peut être compilé en une multitude de formats. Jette un coup d'œil à cette page si tu as besoin de t'en convaincre <https://rmarkdown.rstudio.com/formats.html>
+Le format R Markdown peut être compilé en une multitude de formats. Jette un coup d'œil à cette page si tu as besoin de t'en convaincre <https://rmarkdown.rstudio.com/formats.html>
 
+- Si tu souhaites faire un recherche plus ciblée sur un format de sortie, rends toi dans l'onglet formats 
 
-Nous allons explorer le package [distill](https://rstudio.github.io/distill/) pour réaliser ce blog.
-
-**Rends-toi dans la section [Articles](http://biodatascience-course.sciviews.org/sdd_blog/articles.html) pour en apprendre d'avantages sur les blog scientifiques.**
+- Si tu ne cherche pas un format de sortie particulier, rends toi directement dans la [blog](http://biodatascience-course.sciviews.org/sdd_blog/articles.html)

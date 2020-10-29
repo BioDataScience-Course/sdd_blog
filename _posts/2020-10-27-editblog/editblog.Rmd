@@ -1,11 +1,14 @@
 ---
-title: "Edition du blog"
+title: "Edition du blog scientifique"
 description: |
-  Ajout de nouveaux articles à mon blog
+  Ajout de nouveaux articles à un blog
 author:
   - name: GuyliannEngels
     url: {}
 date: 10-26-2020
+categories:
+  - "Distill"
+  - "Blog Scientifique"
 output: distill::distill_article
 ---
 
@@ -33,5 +36,6 @@ distill::create_post("mon article")
 
 Consultez le site [distill for Rmarkdown](https://rstudio.github.io/distill/). Ce site comprend de nombreuses d'idées pour améliorer vore site.
 
+Tu souhaite en apprendre d'avantages, consulte les autres articles sur le sujet.
 
 **N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**

@@ -1,7 +1,0 @@
----
-title: "Création d'un blog scientifique"
-description: |
-  Bienvenu sur ce site web qui va te permettre de créer facilement un blog scientifique!
-site: distill::distill_website
-listing: posts
----

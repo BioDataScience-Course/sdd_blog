@@ -5,12 +5,15 @@ description: |
 author:
   - name: GuyliannEngels
 date: 10-25-2020
+categories:
+  - Distill
+  - Blog Scientifique
 output: distill::distill_article
 ---
 
 **Cet article est en cours d'édition de nouvelles images arrive très prochainement**
 
-Un fichier [R Markdown](https://rmarkdown.rstudio.com/index.html) est un fichier avec une extension `.Rmd.`. Les documents R Markdown peuvent générer des multitudes de formats de sorties (html, pdf, doxcx, odt,...). Il est possible de réaliser des documents, des présentations, des sites web, des dashboards,... Dans le cadre de ce document, nous vous proposons de réaliser un blog scientifique avec le package distill de RStudio. Afin de vous simplifer cette tâche un [template](http://biodatascience-course.sciviews.org/blog-template/) est mis à votre disposition.
+Cet article s'intéresse à la réalisation d'un blog scientifique avec le package distill de RStudio. Afin de vous simplifer cette tâche un [template](http://biodatascience-course.sciviews.org/blog-template/) est mis à votre disposition.
 
 C'est maintenant à vous de jouer.
 
@@ -78,4 +81,10 @@ Au bout de quelques minutes votre site sera en ligne.
 
 ![](images/blog-guy-6.png)
 
-**N'hésitez pas à ajouter un commentaire, si tu as des questions sur cet article.**
+***
+
+Tu souhaite en apprendre d'avantages, consulte les autres articles sur le sujet.
+
+**N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**
+
+***

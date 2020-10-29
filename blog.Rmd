@@ -1,0 +1,14 @@
+---
+title: "Création d'un blog scientifique avec Distill"
+description: |
+  Cette série d'article s'attarde sur la création et l'édition d'un blog scientifique avec le package Distill !
+site: distill::distill_website
+collections:
+  posts:
+    categories: false
+listing:
+  posts:
+    - "2020-10-27-createblog"
+    - "2020-10-27-editblog"
+    - "2020-10-27-disqusblog" 
+---
