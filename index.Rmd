@@ -1,7 +1,7 @@
 ---
 title: "Création d'un blog scientifique"
 description: |
-  Bienvenu sur ce site web qui va te permettre de créer facilement un blog scientifique!
+  Bienvenue sur ce site web qui va te permettre de créer facilement un blog scientifique!
 site: distill::distill_website
 ---
 
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Savais-tu qu'un fichier fichier au format Rmarkdown ne servait pas uniquement à compiler une rapport au format html, pdf ou encore word. 
+Savais-tu qu'un fichier au format Rmarkdown ne servait pas uniquement à compiler un rapport au format html, pdf ou encore word. 
 
 ![ [R Markdown for RStudio](https://rmarkdown.rstudio.com/authoring_quick_tour.html) ](images/rmarkdownoutputformats.png)
 
@@ -25,4 +25,4 @@ Le format Rmarkdown peut être compilé en une multitude de formats. Jette un co
 
 Nous allons explorer le package [distill](https://rstudio.github.io/distill/) pour réaliser ce blog.
 
-**Rends toi dans la section [Articles](http://biodatascience-course.sciviews.org/sdd_blog/articles.html) pour en apprendre d'avantages sur les blog scientifiques.**
+**Rends-toi dans la section [Articles](http://biodatascience-course.sciviews.org/sdd_blog/articles.html) pour en apprendre d'avantages sur les blog scientifiques.**

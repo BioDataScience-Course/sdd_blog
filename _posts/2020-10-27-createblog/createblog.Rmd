@@ -20,27 +20,27 @@ Vous allez réaliser votre premier **fork** et le cloner en local. Suivez les é
 
 Sur GitHub :
 
-0. Connecter vous à GitHub si cela est nécessaire
+0. Connectez vous à GitHub si cela est nécessaire
 
 ![](images/blog-guy-1.gif)
 
-1. Cliquer sur `Use this template`
-2. Nommer votre dépots en respectant l'exemple (ex: guyliann/guyliann_blog)
-3. Compléter la description en un phrase en anglais (ex:  my personal blog)
-4. Cliquer sur `Create repository from template`
+1. Cliquez sur `Use this template`
+2. Nommez votre dépots en respectant l'exemple (ex: guyliann/guyliann_blog, que l'on traduit par Nom sur GitHub + Nom du dépot) 
+3. Complétez la description en un phrase en anglais (ex:  my personal blog)
+4. Cliquez sur `Create repository from template`
 
 *Vous venez de créer votre repository*
 
-5. Cliquer sur `code`
-6. Cliquer sur le bouton pour copier l'URL (https)
+5. Cliquez sur `code`
+6. Cliquez sur le bouton pour copier l'URL (https)
 
 Dans RStudio :
 
 ![](images/blog-guy-2.gif)
 
-7. Cliquer sur `Project` puis `New Project...`, puis `Version Control`, puis `Git`
-8. Copier votre URL du point 6 dans la section `Repository URL` (La section `Project directory name` se complète automatiquement sur base de l'URL copié.)
-9. Cliquer sur `Browse...` de la section `Create project as subdirectory of`. Sélectionner le dossier `shared` puis `projects`
+7. Cliquez sur `Project` puis `New Project...`, puis `Version Control`, puis `Git`
+8. Copiez votre URL du point 6 dans la section `Repository URL` (La section `Project directory name` se complète automatiquement sur base de l'URL copié.)
+9. Cliquez sur `Browse...` de la section `Create project as subdirectory of`. Sélectionnez le dossier `shared` puis `projects`
 
 ![](images/blog-guy-3.png)
 
@@ -49,19 +49,19 @@ Dans RStudio :
 
 Dans le fichier `_site.yml` de votre projet
 
-11. Editer la ligner 2 `title`, nommez votre blog
-12. Editer la ligne 13 `href`, remplacer l'url par l'url de votre blog sur github. (ex: https://github.com/Guyliann/guyliann_blog)
-13. Editer la ligne 14 `base_url`, remplacer l'url par `http:// + profil github + .github.io/ + nom de votre dépot + /` (ex: <http://guyliann.github.io/guyliann_blog/>, que l'on peut traduire par `profil github + .github.io/ + nom de votre dépot + /`)
+11. Editez la ligne 2 `title`, nommez votre blog
+12. Editez la ligne 13 `href`, remplacer l'url par l'url de votre blog sur github. (ex: https://github.com/Guyliann/guyliann_blog)
+13. Editez la ligne 14 `base_url`, remplacer l'url par `http:// + profil github + .github.io/ + nom de votre dépot + /` (ex: <http://guyliann.github.io/guyliann_blog/>, que l'on peut traduire par `profil github + .github.io/ + nom de votre dépot + /`)
 
 Dans le fichier `index.Rmd`
 
-14. Editer la ligne 2 par le titre de votre blog.
+14. Editez la ligne 2 par le titre de votre blog.
 
-Dans la section Build ( en haut à droite de votre IDE RStudio),
+Dans la section Build (en haut à droite de votre IDE RStudio),
 
 ![](images/blog-guy-4.gif)
 
-15. Cliquer sur `Build Website`
+15. Cliquez sur `Build Website`
 
 Dans la section `Git`
 
@@ -69,8 +69,8 @@ Dans la section `Git`
 
 Dans votre dépôt en ligne sur Github, 
 
-17. Cliquer sur Settings 
-18. Dans la section Github Pages, aller dans la section GitHub Pages, remplacer None par `Master` et `docs`
+17. Cliquez sur Settings 
+18. Dans la section Github Pages, remplacez None par `Master` et `docs`
 
 ![](images/blog-guy-5.gif)
 
@@ -78,4 +78,4 @@ Au bout de quelques minutes votre site sera en ligne.
 
 ![](images/blog-guy-6.png)
 
-**N'hésite pas à ajouter un commentaire, si tu as des questions sur cet article.**
+**N'hésitez pas à ajouter un commentaire, si tu as des questions sur cet article.**
