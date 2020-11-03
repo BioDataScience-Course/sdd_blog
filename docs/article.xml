@@ -12,7 +12,15 @@
       <link>http://biodatascience-course.sciviews.org/sdd_blog/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Personnalisation du profil GitHub</title>
+      <dc:creator>Guyliann Engels</dc:creator>
+      <link>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-11-03-githubperso</link>
+      <description>Quelques petites astuces pour personnaliser son profil GitHub.</description>
+      <guid>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-11-03-githubperso</guid>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>L'entête YAML</title>
       <dc:creator>GuyliannEngels</dc:creator>
@@ -39,7 +47,7 @@
     </item>
     <item>
       <title>Création d'un blog scientifique</title>
-      <dc:creator>GuyliannEngels</dc:creator>
+      <dc:creator>Guyliann Engels</dc:creator>
       <link>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-createblog</link>
       <description>Utilisation d'un template pour générer son blog scientifique</description>
       <guid>http://biodatascience-course.sciviews.org/sdd_blog/posts/2020-10-27-createblog</guid>

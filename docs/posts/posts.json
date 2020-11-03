@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-03-githubperso/",
+    "title": "Personnalisation du profil GitHub",
+    "description": "Quelques petites astuces pour personnaliser son profil GitHub.",
+    "author": [
+      {
+        "name": "Guyliann Engels",
+        "url": "https://guyliann.netlify.app/fr/"
+      }
+    ],
+    "date": "2020-11-03",
+    "categories": [
+      "GitHub"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-03T16:55:45+01:00"
+  },
+  {
     "path": "posts/2020-10-29-babayaml/",
     "title": "L'entête YAML",
     "description": "Le B.A.-BA de l'entête YAML.",
@@ -61,8 +78,8 @@
     "description": "Utilisation d'un template pour générer son blog scientifique",
     "author": [
       {
-        "name": "GuyliannEngels",
-        "url": {}
+        "name": "Guyliann Engels",
+        "url": "https://guyliann.netlify.app/fr/"
       }
     ],
     "date": "2020-10-25",
@@ -71,6 +88,6 @@
       "Blog Scientifique"
     ],
     "preview": {},
-    "last_modified": "2020-10-29T12:21:18+01:00"
+    "last_modified": "2020-11-03T16:50:47+01:00"
   }
 ]

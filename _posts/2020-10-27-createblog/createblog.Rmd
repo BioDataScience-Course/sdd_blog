@@ -3,7 +3,8 @@ title: "Création d'un blog scientifique"
 description: |
   Utilisation d'un template pour générer son blog scientifique
 author:
-  - name: GuyliannEngels
+  - name: Guyliann Engels
+    url: "https://guyliann.netlify.app/fr/"
 date: 10-25-2020
 categories:
   - Distill

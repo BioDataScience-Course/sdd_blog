@@ -4,7 +4,7 @@ title: "Le R Markdown !"
 description: |
   Le B.A.-BA de R Markdown.
 author:
-  - name: GuyliannEngels
+  - name: Guyliann Engels
     url: "https://guyliann.netlify.app/fr/"
 date: 10-29-2020
 output:
